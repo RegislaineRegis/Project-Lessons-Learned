@@ -10,9 +10,9 @@ nav ul li{
     text-align: center;
     display: inline-block;
 }
-/*ul{
-    list-style: circle;
-}*/
+section ul li{
+    list-style:none;
+}
 
 #minha_foto{
     margin-top: 10%;    
