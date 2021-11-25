@@ -1,7 +1,12 @@
 *{
     background-color: rgb(253, 251, 251);
 }
+/* deixando nossa barra fixa*/
 header{
     position: fixed;
     top:0;
+}
+#minha_foto{
+    margin-top: 10%;    
+    width: 200px;
 }
