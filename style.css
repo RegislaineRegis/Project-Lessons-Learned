@@ -18,5 +18,11 @@ ul{
     
 }
 #licoes_a_aprender{     
-    width: 7%;   
+    width: 7%;  
+}
+a{
+    margin-left: 20%;
+}
+footer{
+   margin:2%;
 }
