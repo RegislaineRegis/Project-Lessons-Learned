@@ -6,7 +6,17 @@ header{
     position: fixed;
     top:0;
 }
+ul{
+    list-style: circle;
+}
 #minha_foto{
     margin-top: 10%;    
     width: 200px;
+}
+#licoes_aprendidas{
+    margin-right: 3%;
+    
+}
+#licoes_a_aprender{     
+    width: 7%;   
 }
