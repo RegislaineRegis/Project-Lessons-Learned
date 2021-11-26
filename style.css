@@ -5,11 +5,18 @@
 header{
     position: fixed;
     top:0;
+    text-align: center;
 }
+body{
+    margin:0;
+    padding: 0;
+}
+
 nav ul li{
     text-align: center;
     display: inline-block;
-}
+    margin-left: 25%;
+  }
 section ul li{
     list-style:none;
 }
@@ -17,17 +24,54 @@ section ul li{
 #minha_foto{
     margin-top: 10%;    
     width: 200px;
-}
+    border-radius: 20%;
+   }
+
 #licoes_aprendidas{
-    margin-right: 3%;
+    margin-top: 30px;
+    width:150px;
+    height: 1px;
+    left: 100px; 
+         
+}
+#licoes_a_aprender li{  
+    list-style:inside; 
+    width: 130px;    
+    margin-left: 200px;    
+               
+}
+.lado-direito{
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 1%;
+    padding: 3%;
+}
+
+.lado-esquerdo{
+    width:20%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 1%;
+    margin-left: 4%;
+}
+
+table{    
+    width: 500px;
+    margin-left: 20px;
+}
     
-}
-#licoes_a_aprender{     
-    width: 7%;  
-}
 a{
-    margin-left: 10%;
+    margin-left: 2%;
 }
 footer{
-   margin:2%;
+    text-align: center;
+    margin:2%;
+    font-family: cursive;
 }
+h1{
+    font: size 20px;
+    font-family:monospace;
+    line-height: -2%;
+}
+/*line-height espaçamento entre as linhas*/
