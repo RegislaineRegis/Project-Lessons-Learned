@@ -25,7 +25,7 @@ section ul li{
     margin-top: 10%;    
     width: 200px;
     border-radius: 20%;
-   }
+}
 
 #licoes_aprendidas{
     margin-top: 30px;
@@ -61,7 +61,7 @@ table{
     margin-left: 20px;
 }
     
-a{
+footer a{
     margin-left: 2%;
 }
 footer{
@@ -74,4 +74,4 @@ h1{
     font-family:monospace;
     line-height: -2%;
 }
-/*line-height espaçamento entre as linhas*/
+/*line-height espaçamento entre as linhas apenas no titulo coloquei*/
