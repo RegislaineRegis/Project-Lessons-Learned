@@ -7,15 +7,15 @@ header{
     top:0;
     text-align: center;
 }
+body{
+    margin:0;
+    padding: 0;
+}
 #cabecalho h1 {
     width: 900px;
     height: 70px;
     background-color: green;
     border-style:double;
-}
-body{
-    margin:0;
-    padding: 0;
 }
 nav ul li{
     text-align: center;
@@ -31,19 +31,16 @@ section ul li{
     width: 200px;
     border-radius: 20%;
 }
-
 #licoes_aprendidas{
     margin-top: 30px;
     width:150px;
     height: 1px;
-    left: 100px; 
-         
+    left: 100px;          
 }
 #licoes_a_aprender li{  
     list-style:inside; 
     width: 130px;    
-    margin-left: 200px;    
-               
+    margin-left: 200px;                
 }
 .lado-direito{
     width: 20%;
@@ -51,19 +48,16 @@ section ul li{
     padding: 1%;
     padding: 3%;
 }
-
 .lado-esquerdo{
     width:20%;
     display: inline-block;   
     padding: 2%;
     margin-left: 4%;
 }
-
 table{    
     width: 500px;
     margin-left: 20px;
-}
-    
+}    
 footer a{
     margin-left: 2%;
 }
@@ -72,12 +66,11 @@ footer{
     margin:2%;
     font-family: cursive;
 }
-#rodape p{
+#rodape p, p a{
     background-color: green;
     width: 900px;
     height: 20px;
-    background-color: green;
-    border-style:double;}
+    border-style:double;
 }
 h1 p{
     font: size 20px;
