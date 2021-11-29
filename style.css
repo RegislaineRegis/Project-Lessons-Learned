@@ -66,11 +66,14 @@ footer{
     margin:2%;
     font-family: cursive;
 }
-#rodape p, p a{
+#rodape p{
     background-color: green;
     width: 900px;
     height: 20px;
     border-style:double;
+}
+p a{
+    background-color: green;      
 }
 h1 p{
     font: size 20px;
