@@ -1,129 +1,95 @@
 * {
-
-  background-color: rgb( 253, 251, 251);
-
+    background-color: rgb( 253, 251, 251);
 }
 
 header {
-
   position: fixed;
   top: 0;
   text-align: center;
-
 }
 
 body {
-
   margin: 0;
   padding: 0;
-
 }
 
 #cabecalho h1 {
-
   width: 900 px;
   height: 70 px;
   background-color: green;
   border-style: double;
-
 }
 
 nav ul li {
-
   text-align: center;
   display: inline-block;
-  margin-left: 25%; 
-
+  margin-left: 25%;
 }
 
 section ul li {
-
   list-style: none;
-
 }
 
 #minha_foto {
-
   margin-top: 17%;    
   width: 200 px;
   border-radius: 20%;
-
 }
 
 #licoes_aprendidas {
-
   margin-top: 30 px;
   width: 150 px;
   height: 1 px;
   left: 100 px;
-
 }
 
-#licoes_a_aprender li {  
-
+#licoes_a_aprender li {
   list-style: inside; 
   width: 130 px;    
   margin-left: 200 px;
-
 }
 
 .lado-direito {
-
   width: 20%;
   display: inline-block;
   padding: 1%;
-
 }
 
 .lado-esquerdo {
-
   width: 20%;
   display: inline-block;   
   padding: 2%;
   margin-left: 4%;
-
 }
 
-#tabela {    
-
+#tabela {
   width: 500 px;
   margin-left: 20 px;
-
 }  
 
-footer a { 
-
+footer a {
   margin-left: 2%;
-
 }
 
 footer {
-
   text-align: center;
   margin: 2%;
   font-family: monospace;
-
 }
 
 #rodape {
-
   background-color: green;
   width: 900 px;
   height: 20 px;
   border-style: double;
-
 }
 
 p a {
-
   background-color: green;
-
 }
 
 h1 p {
-
   font-size: 20 px;
   font-family: monospace;
   line-height: -2%;
-  
 }
