@@ -1,112 +1,128 @@
 * {
 
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
+
 }
 
 header {
 
-    position: fixed;
-    top: 0;
-    text-align: center;
+  position: fixed;
+  top: 0;
+  text-align: center;
+
 }
 
 body {
 
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+
 }
 
 #cabecalho h1 {
 
-    width: 900px;
-    height: 70px;
-    background-color: green;
-    border-style: double;
+  width: 900px;
+  height: 70px;
+  background-color: green;
+  border-style: double;
+
 }
 
 nav ul li {
 
-    text-align: center;
-    display: inline-block;
-    margin-left: 25%;        
+  text-align: center;
+  display: inline-block;
+  margin-left: 25%;  
+
 }
 
 section ul li {
 
-    list-style: none;
+  list-style: none;
+
 }
 
 #minha_foto {
 
-    margin-top: 17%;    
-    width: 200px;
-    border-radius: 20%;
+  margin-top: 17%;    
+  width: 200px;
+  border-radius: 20%;
+
 }
 
 #licoes_aprendidas {
 
-    margin-top: 30px;
-    width: 150px;
-    height: 1px;
-    left: 100px;          
+  margin-top: 30px;
+  width: 150px;
+  height: 1px;
+  left: 100px;     
+
 }
 
 #licoes_a_aprender li {  
 
-    list-style: inside; 
-    width: 130px;    
-    margin-left: 200px;                
+  list-style: inside; 
+  width: 130px;    
+  margin-left: 200px;    
+
 }
 
 .lado-direito {
 
-    width: 20%;
-    display: inline-block;
-    padding: 1%;
+  width: 20%;
+  display: inline-block;
+  padding: 1%;
+
 }
 
 .lado-esquerdo {
 
-    width: 20%;
-    display: inline-block;   
-    padding: 2%;
-    margin-left: 4%;
+  width: 20%;
+  display: inline-block;   
+  padding: 2%;
+  margin-left: 4%;
+
 }
 
 #tabela {    
 
-    width: 500px;
-    margin-left: 20px;
+  width: 500px;
+  margin-left: 20px;
+
 }  
 
 footer a { 
 
-    margin-left: 2%;
+  margin-left: 2%;
+
 }
 
 footer {
 
-    text-align: center;
-    margin: 2%;
-    font-family: monospace;
+  text-align: center;
+  margin: 2%;
+  font-family: monospace;
+
 }
 
 #rodape {
 
-    background-color: green;
-    width: 900px;
-    height: 20px;
-    border-style: double;
+  background-color: green;
+  width: 900px;
+  height: 20px;
+  border-style: double;
+
 }
 
 p a {
 
-    background-color: green;      
+  background-color: green;      
+
 }
 
 h1 p {
 
-    font-size: 20px;
-    font-family: monospace;
-    line-height: -2%;
+  font-size: 20px;
+  font-family: monospace;
+  line-height: -2%;
 }
