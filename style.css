@@ -1,94 +1,112 @@
-*{
+* {
+
     background-color: rgb(253, 251, 251);
 }
 
-header{
+header {
+
     position: fixed;
     top: 0;
     text-align: center;
 }
 
-body{
+body {
+
     margin: 0;
     padding: 0;
 }
 
 #cabecalho h1 {
+
     width: 900px;
     height: 70px;
     background-color: green;
     border-style: double;
 }
 
-nav ul li{
+nav ul li {
+
     text-align: center;
     display: inline-block;
     margin-left: 25%;        
 }
 
-section ul li{
+section ul li {
+
     list-style: none;
 }
 
-#minha_foto{
+#minha_foto {
+
     margin-top: 17%;    
     width: 200px;
     border-radius: 20%;
 }
 
-#licoes_aprendidas{
+#licoes_aprendidas {
+
     margin-top: 30px;
     width: 150px;
     height: 1px;
     left: 100px;          
 }
 
-#licoes_a_aprender li{  
+#licoes_a_aprender li {  
+
     list-style: inside; 
     width: 130px;    
     margin-left: 200px;                
 }
 
-.lado-direito{
+.lado-direito {
+
     width: 20%;
     display: inline-block;
     padding: 1%;
 }
 
-.lado-esquerdo{
+.lado-esquerdo {
+
     width: 20%;
     display: inline-block;   
     padding: 2%;
     margin-left: 4%;
 }
 
-#tabela{    
+#tabela {    
+
     width: 500px;
     margin-left: 20px;
 }  
 
-footer a{
+footer a { 
+
     margin-left: 2%;
 }
-footer{
+
+footer {
+
     text-align: center;
     margin: 2%;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
 }
 
-#rodape{
+#rodape {
+
     background-color: green;
     width: 900px;
     height: 20px;
     border-style: double;
 }
 
-p a{
+p a {
+
     background-color: green;      
 }
 
-h1 p{
+h1 p {
+
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     line-height: -2%;
 }
