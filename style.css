@@ -1,5 +1,5 @@
 * {
-    background-color: rgb( 253, 251, 251);
+  background-color: rgb( 253, 251, 251);
 }
 
 header {
@@ -31,7 +31,7 @@ section ul li {
 }
 
 #minha_foto {
-  margin-top: 17%;    
+  margin-top: 17%;
   width: 200 px;
   border-radius: 20%;
 }
@@ -44,8 +44,8 @@ section ul li {
 }
 
 #licoes_a_aprender li {
-  list-style: inside; 
-  width: 130 px;    
+  list-style: inside;
+  width: 130 px;
   margin-left: 200 px;
 }
 
@@ -57,7 +57,7 @@ section ul li {
 
 .lado-esquerdo {
   width: 20%;
-  display: inline-block;   
+  display: inline-block;
   padding: 2%;
   margin-left: 4%;
 }
