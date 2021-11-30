@@ -1,7 +1,6 @@
 * {
 
   background-color: rgb(253, 251, 251);
-
 }
 
 header {
@@ -9,14 +8,12 @@ header {
   position: fixed;
   top: 0;
   text-align: center;
-
 }
 
 body {
 
   margin: 0;
   padding: 0;
-
 }
 
 #cabecalho h1 {
@@ -25,21 +22,18 @@ body {
   height: 70px;
   background-color: green;
   border-style: double;
-
 }
 
 nav ul li {
 
   text-align: center;
   display: inline-block;
-  margin-left: 25%;  
-
+  margin-left: 25%; 
 }
 
 section ul li {
 
   list-style: none;
-
 }
 
 #minha_foto {
@@ -47,7 +41,6 @@ section ul li {
   margin-top: 17%;    
   width: 200px;
   border-radius: 20%;
-
 }
 
 #licoes_aprendidas {
@@ -55,16 +48,14 @@ section ul li {
   margin-top: 30px;
   width: 150px;
   height: 1px;
-  left: 100px;     
-
+  left: 100px;
 }
 
 #licoes_a_aprender li {  
 
   list-style: inside; 
   width: 130px;    
-  margin-left: 200px;    
-
+  margin-left: 200px;
 }
 
 .lado-direito {
@@ -72,7 +63,6 @@ section ul li {
   width: 20%;
   display: inline-block;
   padding: 1%;
-
 }
 
 .lado-esquerdo {
@@ -81,20 +71,17 @@ section ul li {
   display: inline-block;   
   padding: 2%;
   margin-left: 4%;
-
 }
 
 #tabela {    
 
   width: 500px;
   margin-left: 20px;
-
 }  
 
 footer a { 
 
   margin-left: 2%;
-
 }
 
 footer {
@@ -102,7 +89,6 @@ footer {
   text-align: center;
   margin: 2%;
   font-family: monospace;
-
 }
 
 #rodape {
@@ -111,13 +97,11 @@ footer {
   width: 900px;
   height: 20px;
   border-style: double;
-
 }
 
 p a {
 
-  background-color: green;      
-
+  background-color: green;
 }
 
 h1 p {
