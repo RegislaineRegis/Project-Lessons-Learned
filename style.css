@@ -1,7 +1,7 @@
 *{
     background-color: rgb(253, 251, 251);
 }
-/* deixando nossa barra fixa*/
+
 header{
     position: fixed;
     top:0;
@@ -66,7 +66,7 @@ footer{
     margin:2%;
     font-family: cursive;
 }
-#rodape p{
+#rodape{
     background-color: green;
     width: 900px;
     height: 20px;
@@ -80,5 +80,3 @@ h1 p{
     font-family:monospace;
     line-height: -2%;
 }
-
-/*line-height espaçamento entre as linhas apenas no titulo coloquei*/
