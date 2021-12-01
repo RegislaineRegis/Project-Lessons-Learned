@@ -32,21 +32,21 @@ section ul li {
 
 #minha_foto {
   margin-top: 17%;
-  width: 200 px;
+  width: 200px;
   border-radius: 20%;
 }
 
 #licoes_aprendidas {
-  margin-top: 30 px;
-  width: 150 px;
-  height: 1 px;
-  left: 100 px;
+  margin-top: 30px;
+  width: 150px;
+  height: 1px;
+  left: 100px;
 }
 
 #licoes_a_aprender li {
   list-style: inside;
-  width: 130 px;
-  margin-left: 200 px;
+  width: 130px;
+  margin-left: 200px;
 }
 
 .lado-direito {
@@ -63,8 +63,8 @@ section ul li {
 }
 
 #tabela {
-  width: 500 px;
-  margin-left: 20 px;
+  width: 500px;
+  margin-left: 20px;
 
 }
 
@@ -80,8 +80,8 @@ footer {
 
 #rodape {
   background-color: green;
-  width: 900 px;
-  height: 20 px;
+  width: 900px;
+  height: 20px;
   border-style: double;
 }
 
@@ -90,7 +90,7 @@ p a {
 }
 
 h1 p {
-  font-size: 20 px;
+  font-size: 20px;
   font-family: 'Courier New', Courier, monospace;
   line-height: -2%;
 }
