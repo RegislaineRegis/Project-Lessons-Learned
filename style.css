@@ -51,9 +51,9 @@ section ul li {
 
 .lado-direito {
   width: 25%;
-  display:inline-block;
+  display: inline-block;
   padding: 3%;
-  flex-flow:wrap-reverse;
+  flex-flow: wrap-reverse;
 }
 
 .lado-esquerdo {
@@ -97,7 +97,7 @@ h1 p {
   line-height: -2%;
 }
 
-#licoes, #regislaine {
+#licoes , #regislaine {
   font-family: Arial , Helvetica , sans-serif;
-  margin-left: 1%;
+  margin-left: 1%;  
 }
