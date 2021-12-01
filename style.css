@@ -75,7 +75,7 @@ footer a {
 footer {
   text-align: center;
   margin: 2%;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial , Helvetica , sans-serif;
 }
 
 #rodape {
@@ -91,6 +91,6 @@ p a {
 
 h1 p {
   font-size: 20px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial , Helvetica , sans-serif;
   line-height: -2%;
 }
