@@ -49,11 +49,11 @@ Neste projeto, desenvolvi as seguintes habilidades:
  - [x] [7 - Insira pelo menos um link externo na página.](#7---Insira-pelo-menos-um-link-externo-na-página)
  - [x] [8 - Crie um artigo sobre seu aprendizado.](#8---crie-um-artigo-sobre-seu-aprendizado)
  - [x] [9 - Crie uma seção que conta uma passagem sobre seu aprendizado.](#9---crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
- - [x] [10 - Aplique elementos HTML de acordo com o sentido e propósito de cada um deles.](#9---Aplique-elementos-HTML-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
-  - [x] [11 - Teste a semântica da sua página está aprovada pelo site CodeSniffer.](#9---Teste-a-semântica-da-sua-página-está-aprovada-pelo-site-CodeSniffer)
+ - [x] [10 - Aplique elementos HTML de acordo com o sentido e propósito de cada um deles.](#10---Aplique-elementos-HTML-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
+  - [x] [11 - Teste a semântica da sua página está aprovada pelo site CodeSniffer.](#11---Teste-a-semântica-da-sua-página-está-aprovada-pelo-site-CodeSniffer)
   
  Requisitos bônus:
-- [x] [12 - Adicione uma tabela à página.](#10---Adicione-uma-tabela-a-página)
-- [x] [13 - Utilize o Box model.](#11---Utilize-o-Box-model)
-- [x] [14 - Altere atributos relacionados as fontes.](#11---Altere-atributos-relacionados-as-fontes)
-- [x] [15 - Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro.](#11---Posicione-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
+- [x] [12 - Adicione uma tabela à página.](#12---Adicione-uma-tabela-a-página)
+- [x] [13 - Utilize o Box model.](#13---Utilize-o-Box-model)
+- [x] [14 - Altere atributos relacionados as fontes.](#14---Altere-atributos-relacionados-as-fontes)
+- [x] [15 - Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro.](#15---Posicione-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
