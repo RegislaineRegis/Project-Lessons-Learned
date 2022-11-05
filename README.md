@@ -34,7 +34,6 @@ Neste projeto, desenvolvi as seguintes habilidades:
 - Realizar manutenções em páginas já existentes
 - Aplicar Layout e Box Model na prática
 
-- Manipular o Javascript
 
 ## Escopo do Projeto
 
